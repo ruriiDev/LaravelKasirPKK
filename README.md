@@ -49,6 +49,7 @@ php artisan db:seed
 
 ```bash
 php artisan serve
+npm run build
 ```
 
 9.Buka aplikasi di browser dengan alamat :
